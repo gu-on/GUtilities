@@ -1,0 +1,18 @@
+@description GUtilities
+@version 1.0
+@author guonaudio
+@links
+  Linktree: https://linktr.ee/guonaudio
+  Donation: https://ko-fi.com/guonaudio
+@about
+  # GUtilities
+  Reaper tools for sample editing and game audio
+@changelog
+  - Initial Release!
+  - Added Item Length Adjuster (relative to snap offset)
+  - Added Item Fader
+  - Added Item Renamer
+  - Added Batch Importer
+  - Added Source Validator
+@provides
+   [windows] reaper_GUtilities_x64.dll https://github.com/gu-on/GUtilities/releases/download/v1.0/reaper_GUtilities_x64.dll
