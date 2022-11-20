@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" commit="0597558aaf2ee35929120ca79e0c117fca6159c9">
+  <category name="Extensions">
+    <reapack name="GUtilities.ext" type="extension" desc="GUtilities">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 GUtilities\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Reaper tools for sample editing and game audio\par}
+}
+]]></description>
+        <link rel="website" href="https://linktr.ee/guonaudio">Linktree:</link>
+        <link rel="website" href="https://ko-fi.com/guonaudio">Donation:</link>
+      </metadata>
+      <version name="1.0" author="guonaudio" time="2022-11-20T19:09:35Z">
+        <changelog><![CDATA[- Initial Release!
+- Added Item Length Adjuster (relative to snap offset)
+- Added Item Fader
+- Added Item Renamer
+- Added Batch Importer
+- Added Source Validator]]></changelog>
+        <source platform="windows" file="reaper_GUtilities_x64.dll">https://github.com/gu-on/GUtilities/releases/download/v1.0/reaper_GUtilities_x64.dll</source>
+      </version>
+    </reapack>
+  </category>
+</index>
