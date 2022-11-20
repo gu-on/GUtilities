@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" commit="0597558aaf2ee35929120ca79e0c117fca6159c9">
+<index version="1" commit="e27277d636ee8d883e3788bf4bce203e044e0f7b">
   <category name="Extensions">
-    <reapack name="GUtilities.ext" type="extension" desc="GUtilities">
+    <reapack name="GUtilities.ext" type="extension" desc="GUtilities/Tools for editing and game audio">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
@@ -14,7 +14,7 @@
         <link rel="website" href="https://linktr.ee/guonaudio">Linktree:</link>
         <link rel="website" href="https://ko-fi.com/guonaudio">Donation:</link>
       </metadata>
-      <version name="1.0" author="guonaudio" time="2022-11-20T19:09:35Z">
+      <version name="1.0" author="guonaudio" time="2022-11-20T19:18:50Z">
         <changelog><![CDATA[- Initial Release!
 - Added Item Length Adjuster (relative to snap offset)
 - Added Item Fader
