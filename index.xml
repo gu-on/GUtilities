@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" commit="e27277d636ee8d883e3788bf4bce203e044e0f7b" name="GUtilities">
+<index version="1" commit="6d725967a852b9c67d6c3d4ad30b19528b85d546" name="GUtilities">
   <category name="Extensions">
     <reapack name="GUtilities.ext" type="extension" desc="GUtilities/Tools for editing and game audio">
       <metadata>
@@ -22,6 +22,17 @@
 - Added Batch Importer
 - Added Source Validator]]></changelog>
         <source platform="windows" file="reaper_GUtilities_x64.dll">https://github.com/gu-on/GUtilities/releases/download/v1.0/reaper_GUtilities_x64.dll</source>
+      </version>
+      <version name="1.1" author="guonaudio" time="2022-11-25T16:53:56Z">
+        <changelog><![CDATA[- Source Validator: Added tooltips to certain headers for clarity
+- Source Validator: Detection settings and flags are now saved/recalled between use
+- Source Validator: Floating point values have been rounded down to be more legible in CSV format
+- Item Renamer: Improved processing speed
+- Item Renamer: Changed "$itemindex" to "$itemnumber", and "$itemnumber" to "$itemnumberontrack"
+- Item Renamer: "$itemnumber" now starts from 1
+- Item Renamer: "$itemnumberontrack" now shows number of item on track relative to selection, rather than absolute value on track
+- Item Offset Adjuster: Clamped window to auto-resize (no need for manual resizing)]]></changelog>
+        <source platform="windows" file="reaper_GUtilities_x64.dll">https://github.com/gu-on/GUtilities/releases/download/v1.1/reaper_GUtilities_x64.dll</source>
       </version>
     </reapack>
   </category>
