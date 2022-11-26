@@ -1,6 +1,8 @@
 # GUtilities
 Reaper DAW Plugin/Extension that provides tools created for editors and sound designers. At present, it only supports Windows x64. 
 
+The Reaper Forum post can be found here <https://forum.cockos.com/showthread.php?t=273060>
+
 Current Tools:
 - Item Length Adjuster (relative to snap offset)
 - Item Fader
