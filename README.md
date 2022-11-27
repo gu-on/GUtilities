@@ -1,5 +1,7 @@
 # GUtilities
-Reaper DAW Plugin/Extension that provides tools created for editors and sound designers. At present, it only supports Windows x64. 
+Reaper DAW Plugin/Extension that provides tools created for editors and sound designers. 
+
+At present, currently supports Win x64 and x86 platforms.
 
 The Reaper Forum post can be found here <https://forum.cockos.com/showthread.php?t=273060>
 
