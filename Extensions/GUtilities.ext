@@ -1,5 +1,5 @@
 @description GUtilities/Tools for editing and game audio
-@version 1.1.1
+@version 1.1.2
 @author guonaudio
 @links
   Linktree: https://linktr.ee/guonaudio
@@ -8,13 +8,7 @@
   # GUtilities
   Reaper tools for sample editing and game audio
 @changelog
-  - Source Validator: Added tooltips to certain headers for clarity
-  - Source Validator: Detection settings and flags are now saved/recalled between use
-  - Source Validator: Floating point values have been rounded down to be more legible in CSV format
-  - Item Renamer: Improved processing speed
-  - Item Renamer: Changed "$itemindex" to "$itemnumber", and "$itemnumber" to "$itemnumberontrack"
-  - Item Renamer: "$itemnumber" now starts from 1
-  - Item Renamer: "$itemnumberontrack" now shows number of item on track relative to selection, rather than absolute value on track
-  - Item Offset Adjuster: Clamped window to auto-resize (no need for manual resizing)
+  - Updated to use ReaImGui V0.8.0
 @provides
-   [windows] reaper_GUtilities_x64.dll https://github.com/gu-on/GUtilities/releases/download/v1.1/reaper_GUtilities_x64.dll
+   [win64] reaper_GUtilities_x64.dll https://github.com/gu-on/GUtilities/releases/download/v1.1.2/reaper_GUtilities_x64.dll
+   [win32] reaper_GUtilities_x64.dll https://github.com/gu-on/GUtilities/releases/download/v1.1.2/reaper_GUtilities_x86.dll
