@@ -1,5 +1,5 @@
 @description GUtilities/Tools for editing and game audio
-@version 1.1.4
+@version 1.1.5
 @author guonaudio
 @links
   Linktree: https://linktr.ee/guonaudio
@@ -8,8 +8,8 @@
   # GUtilities
   Reaper tools for sample editing and game audio
 @changelog
-  - Updated to use ReaImGui V0.8.3
+  - Updated to use ReaImGui V0.8.4
   - Updated to Reaper 6.73
 @provides
-   [win64] reaper_GUtilities_x64.dll https://github.com/gu-on/GUtilities/releases/download/v1.1.4/reaper_GUtilities_x64.dll
-   [win32] reaper_GUtilities_x64.dll https://github.com/gu-on/GUtilities/releases/download/v1.1.4/reaper_GUtilities_x86.dll
+   [win64] reaper_GUtilities_x64.dll https://github.com/gu-on/GUtilities/releases/download/v1.1.5/reaper_GUtilities_x64.dll
+   [win32] reaper_GUtilities_x64.dll https://github.com/gu-on/GUtilities/releases/download/v1.1.5/reaper_GUtilities_x86.dll
