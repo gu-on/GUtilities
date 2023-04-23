@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" commit="46b5977f8ce88ba21012441b01d0cfe516669ad5" name="GUtilities">
+<index version="1" commit="dabffc77c50ec85f28e6ead2a96a4a4edb7d09ef" name="GUtilities">
   <category name="Extensions">
     <reapack name="GUtilities.ext" type="extension" desc="GUtilities/Tools for editing and game audio">
       <metadata>
@@ -72,6 +72,12 @@
         <changelog><![CDATA[- Updated to use ReaImGui V0.8.5]]></changelog>
         <source platform="win64" file="reaper_GUtilities_x64.dll">https://github.com/gu-on/GUtilities/releases/download/v1.1.6/reaper_GUtilities_x64.dll</source>
         <source platform="win32" file="reaper_GUtilities_x64.dll">https://github.com/gu-on/GUtilities/releases/download/v1.1.6/reaper_GUtilities_x86.dll</source>
+      </version>
+      <version name="1.1.7" author="guonaudio" time="2023-04-23T12:00:14Z">
+        <changelog><![CDATA[- Removed version checking, hopefully will require fewer rebuilds
+- Updated to use ReaImGui V0.8.6]]></changelog>
+        <source platform="win64" file="reaper_GUtilities_x64.dll">https://github.com/gu-on/GUtilities/releases/download/v1.1.7/reaper_GUtilities_x64.dll</source>
+        <source platform="win32" file="reaper_GUtilities_x64.dll">https://github.com/gu-on/GUtilities/releases/download/v1.1.7/reaper_GUtilities_x86.dll</source>
       </version>
     </reapack>
   </category>
