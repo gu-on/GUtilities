@@ -1,4 +1,8 @@
-# GUtilities
+# DEPRECATED - GUtilities
+
+Please Refer to [GUtilitiesPlus](https://github.com/gu-on/GUtilitiesPlus) for the latest iteration of GUtilities. 
+---
+
 Reaper DAW Plugin/Extension that provides tools created for editors and sound designers. 
 
 At present, currently supports Win x64 and x86 platforms.
